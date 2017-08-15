@@ -3,6 +3,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 That if I believe in myself, go slow, and work quietly and slowly to figure out how to do things, and be okay with mistakes, I can accomplish a lot.
 
+I also learned a lot about how to use Atom. I figured out I could do View -> Toggle Soft Wrap to make lines of code easier to read. 
+
+I also had to figure out how to look for the tags that I didn’t know. I looked up superscript, horizontal rule, and strikethrough on MDN in order to code the rest of the website. I also had to be okay with combing through the code several times and looking at the index.html and what it showed up, since I am not trained yet in being very precise to looking for errors. It is a different experience from being an English major and catching essay errors quickly, since I am not yet fluent in being able to read code for errors.
+
  * What has been easy? When my anxiety subsided, doing the assignment was actually quite fast and easy because I learned the fundamentals so well. I realized that I have a problem where I under-estimate how well I learn the material despite studying it, and then I psyche myself out and believe that I couldn’t do it because I can’t live up to a perfection model in my head, instead of actually trying, breaking, and seeing how it works.
 
   * What has been difficult?
@@ -11,7 +15,3 @@ I have been pretty ill the past month, so it has been really hard for me to keep
   * How have you used the problem solving strategies from the first project to overcome challenges so far? I identified that a lot of my issues with completing this project was not because of the information or knowledge, but rather my self-beliefs about my ability to complete it. I sought out resources, help, and tried to locate and face the core of my problem, which is that I have very damaging perfectionism and anxiety. I used Google Search to look up articles to help give myself encouragement. I also used it in order to look up a few things I didn’t know how to do, like <sup> and <hr>. It was incredibly important for me to realize that I didn’t have to get it all right the first time, that it does take time to learn, and that I am able to figure things out if I give myself the patience and nurturing to do so.
 
 I am so happy to learn how to code, because I think it can really help with me overcoming my imposter syndrome and making me understand that I can learn many things, I just got taught a great deal of math and science anxiety due to insecurities and lack of encouragement when I was younger. I can definitely do it, I just need lots of help and support.
-
----
-
-Your response goes here!
